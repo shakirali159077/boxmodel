@@ -1,0 +1,30 @@
+.mainBox{
+    background-color: rgb(155, 170, 219);
+    height: 300px;
+    width: 300px;
+    /* text-align: center; */
+    padding: 20px;
+    margin: auto;
+}    
+.aa{
+    background-color: rgb(213, 123, 171);
+    /* text-align: center; */
+    padding: 30px;
+    margin: auto;
+}
+.ss{
+    background-color: rgb(34, 34, 182);
+    padding: 30px;
+    margin: auto;
+    /* border: 10px solid black; */
+}
+.dd{
+    background-color: rgb(219, 195, 155);
+    padding: 30px;
+    margin: auto;
+}
+.ff{
+    background-color: rgb(219, 155, 186);
+    padding: 30px;
+    margin: auto;
+}
